@@ -1,4 +1,4 @@
-# Análisis de Suscripciones SQL
+Análisis de Suscripciones SQL
 
 
 Descripción 
@@ -15,6 +15,8 @@ El objetivo principal es responder a las siguientes preguntas críticas:
 
 Implementación Técnica
 La consulta principal emplea Common Table Expressions para mejorar la legibilidad y modularidad del código. Realicé conversiones de tipos de datos (CAST) para asegurar cálculos precisos sobre duraciones y precios, seguidos de funciones de agregación y redondeo para una presentación limpia de los resultados.
+
+![Mapa Mental del Proyecto](./mapa_proceso.svg)
 
 Resultados Obtenidos
 Obtuve un reporte ordenado por ingresos, permitiendo identificar:
